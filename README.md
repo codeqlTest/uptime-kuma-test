@@ -5,6 +5,7 @@
 <img src="https://weblate.kuma.pet/widgets/uptime-kuma/-/svg-badge.svg" alt="Translation status" />
 </a>
 
+
 <div align="center" width="100%">
     <img src="./public/icon.svg" width="128" alt="" />
 </div>
